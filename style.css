@@ -152,3 +152,7 @@ body {
 .demo__row_size_l {
     background-image: url("https://pictures.s3.yandex.net/animation_topic/line_l.svg");
 }
+
+.demo__item{
+    overflow: hidden;
+}
