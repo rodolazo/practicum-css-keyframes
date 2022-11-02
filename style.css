@@ -1,3 +1,13 @@
+@keyframes move_bg {
+    from {
+        background-position: 0 0;
+    }
+
+    to {
+        background-position: 100px 0;
+    }
+}
+
 html,
 body {
     margin: 0;
